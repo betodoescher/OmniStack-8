@@ -36,7 +36,7 @@ ToDo list (BackEnd):
 ## FrontEnd (ReactJs)
 
 Visual:  
-![Demo do Tinder Dev](docs/demo-app.png)  
+![Demo do Tinder Dev](docs/image_2019-08-10_17-54-39.png)  
 
 Start 
 ```shell
@@ -125,20 +125,24 @@ Confirm if adb exists in folder:
 Then just add in your PATH env: 
 `C:\Users\YOURUSER\AppData\Local\Android\sdk\platform-tools`
 
-##### Adds
+
+##### Installations during the project - all new installations needed to run the command react-native run-android
 
 ```
-
-stop run-android
-
+# app
 yarn add react-navigation react-native-gesture-handler react-native-reanimated
 
 yarn add @react-native-community/async-storage
 
 yarn add socket.io-client
 
-# back
+# frontend
+yarn add socket.io-client
 
+# backend
 yarn add socket.io 
 
 ```
+
+Implemented the Match
+![Implemented the Match](docs/image_2019-08-10_17-54-57.jpg)  
