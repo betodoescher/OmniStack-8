@@ -36,7 +36,7 @@ ToDo list (BackEnd):
 ## FrontEnd (ReactJs)
 
 Visual:  
-![Demo do Tinder Dev](docs/image_2019-08-10_17-54-39.png)  
+![Demo do Tinder Dev](doc/image_2019-08-10_17-54-39.png)  
 
 Start 
 ```shell
@@ -77,7 +77,7 @@ Ps: Make sure you Android is connected to USB with `Remote Debugging Android Dev
 https://developers.google.com/web/tools/chrome-devtools/remote-debugging/?hl=pt-br
 
 You'll see this screen in Your Android Device if everthings work:
-![Demo do Tinder Dev](docs/react-native.jpg)  
+![Demo do Tinder Dev](doc/react-native.jpg)  
 
 
 #### Troubleshooting 
@@ -145,4 +145,4 @@ yarn add socket.io
 ```
 
 Implemented the Match
-![Implemented the Match](docs/image_2019-08-10_17-54-57.jpg)  
+![Implemented the Match](doc/image_2019-08-10_17-54-57.jpg)  
