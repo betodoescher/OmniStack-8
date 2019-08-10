@@ -145,4 +145,4 @@ yarn add socket.io
 ```
 
 Implemented the Match
-![Implemented the Match](doc/image_2019-08-10_17-54-57.jpg)  
+![Implemented the Match](doc/image_2019-08-10_17-54-57.png)  
