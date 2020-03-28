@@ -5,7 +5,6 @@ const DislikeController = require('./controllers/DislikeController')
 
 const routes = express.Router()
 
-
 routes.get('/', (req, res) => {
     return res.json({message: `Olá ${req.query.name}`})
 })
